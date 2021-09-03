@@ -76,8 +76,8 @@ header{
     
 }
 #post{
-    width: 800px;
-    height: calc(auto + 10%);
+    width: 700px;
+    height: auto;
     background: #FFFFFF;
     border: 1px solid #E8E8E8;
     box-sizing: border-box;
